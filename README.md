@@ -17,7 +17,7 @@ AI-powered WhatsApp sales operations dashboard built for the Scale100x.AI assign
 - GitHub
 
 ## Live Prototype
-https://preview--scale-ai-pilot.lovable.app/
+https://scale-ai-pilot.lovable.app
 
 ## GitHub Repository
 https://github.com/alykhan18/scale-ai-pilot
