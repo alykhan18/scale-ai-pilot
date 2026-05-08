@@ -1,26 +1,26 @@
-# Scale AI Hub
+# Scale100x WhatsApp Agent Panel
 
-AI-powered WhatsApp AI Agent dashboard built for the Scale100x.AI assignment.
+AI-powered WhatsApp sales operations dashboard built for the Scale100x.AI assignment.
 
 ## Features
 - WhatsApp AI Agent Panel
 - Human-in-the-Loop (HITL) Escalation Workflows
 - Lead Intelligence Dashboard
 - AI Resolution & Escalation Metrics
-- Real-time Operational Activity Feed
+- Operational Activity Feed
 - Responsive Enterprise SaaS UI
 
 ## Tech Stack
 - React
 - Tailwind CSS
 - Lovable
-- Vercel
+- GitHub
 
-## Live Demo
-[View Live Prototype](https://scale100x-whatsapp-agent-panel.vercel.app/)
+## Live Prototype
+https://preview--scale-ai-pilot.lovable.app/
 
 ## GitHub Repository
-https://github.com/alykhan18/scale-ai-hub
+https://github.com/alykhan18/scale-ai-pilot
 
 ## Assignment Focus
 Built to demonstrate:
