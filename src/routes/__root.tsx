@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "scale100x-whatsapp-agent-panel" },
+      { name: "description", content: "Manage WhatsApp AI agents and customer conversations with a modern SaaS dashboard." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "scale100x-whatsapp-agent-panel" },
+      { property: "og:description", content: "Manage WhatsApp AI agents and customer conversations with a modern SaaS dashboard." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "scale100x-whatsapp-agent-panel" },
+      { name: "twitter:description", content: "Manage WhatsApp AI agents and customer conversations with a modern SaaS dashboard." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4e0969da-8fec-4368-a2e4-e29c43201130/id-preview-9aee2e7e--87ae8f8b-cef3-4bc8-b644-70e168266503.lovable.app-1778246254688.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4e0969da-8fec-4368-a2e4-e29c43201130/id-preview-9aee2e7e--87ae8f8b-cef3-4bc8-b644-70e168266503.lovable.app-1778246254688.png" },
     ],
     links: [
       {
