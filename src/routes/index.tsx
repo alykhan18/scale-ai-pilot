@@ -5,6 +5,7 @@ import { MetricCards } from "@/components/dashboard/MetricCards";
 import { Conversations } from "@/components/dashboard/Conversations";
 import { IntelligencePanel } from "@/components/dashboard/IntelligencePanel";
 import { HitlEscalation } from "@/components/dashboard/HitlEscalation";
+import { ActivityFeed } from "@/components/dashboard/ActivityFeed";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -43,6 +44,7 @@ function Dashboard() {
             </div>
             <div className="space-y-6">
               <IntelligencePanel />
+              <ActivityFeed />
             </div>
           </div>
         </main>
